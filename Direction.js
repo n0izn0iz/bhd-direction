@@ -13,7 +13,7 @@ export default class Direction {
       case Direction.bottomRightIndex:
         return "bottomRight";
       case Direction.bottomLeftIndex:
-        return "topLeft";
+        return "bottomLeft";
     }
   }
 
