@@ -1,7 +1,5 @@
 import Direction from "./Direction";
 
-console.log(Direction);
-
 const directions = [];
 
 for (
